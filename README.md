@@ -14,3 +14,5 @@ cd build
 cmake ..
 make
 ```
+
+Requires libtorch.
